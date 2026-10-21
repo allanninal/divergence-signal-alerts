@@ -1,0 +1,3 @@
+dv_default	InpAlertPopup=false
+dv_hidden_both	InpAlertPopup=false,InpHidden=true,InpBoth=true
+dv_rsi_noclean	InpAlertPopup=false,InpMACD=false,InpClean=false,InpLeft=3,InpRight=2,InpMaxDist=40,InpHistory=3000

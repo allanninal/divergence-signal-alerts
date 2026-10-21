@@ -1,0 +1,80 @@
+# MT5 (Strategy Tester dumps compared with tests/reference.py), 36 files
+PASS dv_default_BTCUSD_H1                   bars  84420 scanned  2000  RSI OK  MACD OK  bull  19 OK  bear  21 OK
+PASS dv_default_BTCUSD_H4                   bars  21848 scanned  2000  RSI OK  MACD OK  bull  13 OK  bear  18 OK
+PASS dv_default_BTCUSD_M15                  bars   3788 scanned  2000  RSI OK  MACD OK  bull  14 OK  bear  23 OK
+PASS dv_default_EURUSD_H1                   bars 100000 scanned  2000  RSI OK  MACD OK  bull  14 OK  bear  13 OK
+PASS dv_default_EURUSD_H4                   bars  34030 scanned  2000  RSI OK  MACD OK  bull  22 OK  bear  25 OK
+PASS dv_default_EURUSD_M15                  bars   3596 scanned  2000  RSI OK  MACD OK  bull  19 OK  bear  18 OK
+PASS dv_default_GBPJPY_H1                   bars 100000 scanned  2000  RSI OK  MACD OK  bull  22 OK  bear  23 OK
+PASS dv_default_GBPJPY_H4                   bars  33974 scanned  2000  RSI OK  MACD OK  bull  10 OK  bear  22 OK
+PASS dv_default_GBPJPY_M15                  bars   3596 scanned  2000  RSI OK  MACD OK  bull  21 OK  bear  23 OK
+PASS dv_default_XAUUSD_H1                   bars  91745 scanned  2000  RSI OK  MACD OK  bull  18 OK  bear  14 OK
+PASS dv_default_XAUUSD_H4                   bars  25458 scanned  2000  RSI OK  MACD OK  bull  12 OK  bear  16 OK
+PASS dv_default_XAUUSD_M15                  bars   3584 scanned  2000  RSI OK  MACD OK  bull  16 OK  bear  22 OK
+PASS dv_hidden_both_BTCUSD_H1               bars  84420 scanned  2000  RSI OK  MACD OK  bull   3 OK  bear   9 OK
+PASS dv_hidden_both_BTCUSD_H4               bars  21848 scanned  2000  RSI OK  MACD OK  bull   4 OK  bear   9 OK
+PASS dv_hidden_both_BTCUSD_M15              bars   3788 scanned  2000  RSI OK  MACD OK  bull   8 OK  bear  14 OK
+PASS dv_hidden_both_EURUSD_H1               bars 100000 scanned  2000  RSI OK  MACD OK  bull   7 OK  bear   7 OK
+PASS dv_hidden_both_EURUSD_H4               bars  34030 scanned  2000  RSI OK  MACD OK  bull  13 OK  bear  10 OK
+PASS dv_hidden_both_EURUSD_M15              bars   3596 scanned  2000  RSI OK  MACD OK  bull   9 OK  bear   8 OK
+PASS dv_hidden_both_GBPJPY_H1               bars 100000 scanned  2000  RSI OK  MACD OK  bull  15 OK  bear   7 OK
+PASS dv_hidden_both_GBPJPY_H4               bars  33974 scanned  2000  RSI OK  MACD OK  bull   9 OK  bear   7 OK
+PASS dv_hidden_both_GBPJPY_M15              bars   3596 scanned  2000  RSI OK  MACD OK  bull  13 OK  bear  15 OK
+PASS dv_hidden_both_XAUUSD_H1               bars  91745 scanned  2000  RSI OK  MACD OK  bull  10 OK  bear  12 OK
+PASS dv_hidden_both_XAUUSD_H4               bars  25458 scanned  2000  RSI OK  MACD OK  bull  11 OK  bear   8 OK
+PASS dv_hidden_both_XAUUSD_M15              bars   3584 scanned  2000  RSI OK  MACD OK  bull  10 OK  bear   4 OK
+PASS dv_rsi_noclean_BTCUSD_H1               bars  84420 scanned  3000  RSI OK  bull  84 OK  bear 110 OK
+PASS dv_rsi_noclean_BTCUSD_H4               bars  21848 scanned  3000  RSI OK  bull 101 OK  bear  88 OK
+PASS dv_rsi_noclean_BTCUSD_M15              bars   3788 scanned  3000  RSI OK  bull  82 OK  bear 105 OK
+PASS dv_rsi_noclean_EURUSD_H1               bars 100000 scanned  3000  RSI OK  bull 105 OK  bear  92 OK
+PASS dv_rsi_noclean_EURUSD_H4               bars  34030 scanned  3000  RSI OK  bull  92 OK  bear 103 OK
+PASS dv_rsi_noclean_EURUSD_M15              bars   3596 scanned  3000  RSI OK  bull 113 OK  bear  93 OK
+PASS dv_rsi_noclean_GBPJPY_H1               bars 100000 scanned  3000  RSI OK  bull  81 OK  bear 109 OK
+PASS dv_rsi_noclean_GBPJPY_H4               bars  33974 scanned  3000  RSI OK  bull  76 OK  bear 131 OK
+PASS dv_rsi_noclean_GBPJPY_M15              bars   3596 scanned  3000  RSI OK  bull  84 OK  bear 113 OK
+PASS dv_rsi_noclean_XAUUSD_H1               bars  91745 scanned  3000  RSI OK  bull 116 OK  bear  89 OK
+PASS dv_rsi_noclean_XAUUSD_H4               bars  25458 scanned  3000  RSI OK  bull  63 OK  bear 119 OK
+PASS dv_rsi_noclean_XAUUSD_M15              bars   3584 scanned  3000  RSI OK  bull 104 OK  bear  89 OK
+
+ALL PASS (36 files)
+
+# MT4 (Strategy Tester dumps compared with tests/reference.py), 37 files
+PASS dv_default_BTCUSD_H1                   bars  15527 scanned 15526  RSI OK  MACD OK  bull 138 OK  bear 141 OK
+PASS dv_default_BTCUSD_H4                   bars   3882 scanned  3881  RSI OK  MACD OK  bull  34 OK  bear  38 OK
+PASS dv_default_BTCUSD_M15                  bars  62085 scanned 62084  RSI OK  MACD OK  bull 532 OK  bear 619 OK
+PASS dv_default_EURUSD_H1                   bars  10998 scanned 10997  RSI OK  MACD OK  bull  97 OK  bear  93 OK
+PASS dv_default_EURUSD_H4                   bars   2754 scanned  2753  RSI OK  MACD OK  bull  23 OK  bear  35 OK
+PASS dv_default_EURUSD_M15                  bars  43980 scanned 43979  RSI OK  MACD OK  bull 451 OK  bear 431 OK
+PASS dv_default_GBPJPY_H1                   bars  10997 scanned 10996  RSI OK  MACD OK  bull 110 OK  bear 135 OK
+PASS dv_default_GBPJPY_H4                   bars   2754 scanned  2753  RSI OK  MACD OK  bull  15 OK  bear  36 OK
+PASS dv_default_GBPJPY_M15                  bars  43978 scanned 43977  RSI OK  MACD OK  bull 392 OK  bear 511 OK
+PASS dv_default_XAUUSD_H1                   bars  11307 scanned 11306  RSI OK  MACD OK  bull  68 OK  bear 105 OK
+PASS dv_default_XAUUSD_H4                   bars   3695 scanned  3694  RSI OK  MACD OK  bull  23 OK  bear  40 OK
+PASS dv_default_XAUUSD_M15                  bars  42200 scanned 42199  RSI OK  MACD OK  bull 365 OK  bear 394 OK
+PASS dv_default_ticks_EURUSD_H1             bars   5813 scanned  5812  RSI OK  MACD OK  bull  49 OK  bear  49 OK
+PASS dv_hidden_both_BTCUSD_H1               bars  15527 scanned 15526  RSI OK  MACD OK  bull  62 OK  bear  56 OK
+PASS dv_hidden_both_BTCUSD_H4               bars   3882 scanned  3881  RSI OK  MACD OK  bull  12 OK  bear  21 OK
+PASS dv_hidden_both_BTCUSD_M15              bars  62085 scanned 62084  RSI OK  MACD OK  bull 277 OK  bear 298 OK
+PASS dv_hidden_both_EURUSD_H1               bars  10998 scanned 10997  RSI OK  MACD OK  bull  50 OK  bear  56 OK
+PASS dv_hidden_both_EURUSD_H4               bars   2754 scanned  2753  RSI OK  MACD OK  bull  15 OK  bear  14 OK
+PASS dv_hidden_both_EURUSD_M15              bars  43980 scanned 43979  RSI OK  MACD OK  bull 185 OK  bear 206 OK
+PASS dv_hidden_both_GBPJPY_H1               bars  10997 scanned 10996  RSI OK  MACD OK  bull  60 OK  bear  48 OK
+PASS dv_hidden_both_GBPJPY_H4               bars   2754 scanned  2753  RSI OK  MACD OK  bull  15 OK  bear  14 OK
+PASS dv_hidden_both_GBPJPY_M15              bars  43978 scanned 43977  RSI OK  MACD OK  bull 190 OK  bear 190 OK
+PASS dv_hidden_both_XAUUSD_H1               bars  11307 scanned 11306  RSI OK  MACD OK  bull  47 OK  bear  50 OK
+PASS dv_hidden_both_XAUUSD_H4               bars   3695 scanned  3694  RSI OK  MACD OK  bull  16 OK  bear  15 OK
+PASS dv_hidden_both_XAUUSD_M15              bars  42200 scanned 42199  RSI OK  MACD OK  bull 156 OK  bear 172 OK
+PASS dv_rsi_noclean_BTCUSD_H1               bars  15527 scanned 15526  RSI OK  bull 516 OK  bear 532 OK
+PASS dv_rsi_noclean_BTCUSD_H4               bars   3882 scanned  3881  RSI OK  bull 127 OK  bear 122 OK
+PASS dv_rsi_noclean_BTCUSD_M15              bars  62085 scanned 62084  RSI OK  bull 1965 OK  bear 2021 OK
+PASS dv_rsi_noclean_EURUSD_H1               bars  10998 scanned 10997  RSI OK  bull 378 OK  bear 376 OK
+PASS dv_rsi_noclean_EURUSD_H4               bars   2754 scanned  2753  RSI OK  bull  78 OK  bear  95 OK
+PASS dv_rsi_noclean_EURUSD_M15              bars  43980 scanned 43979  RSI OK  bull 1491 OK  bear 1412 OK
+PASS dv_rsi_noclean_GBPJPY_H1               bars  10997 scanned 10996  RSI OK  bull 332 OK  bear 421 OK
+PASS dv_rsi_noclean_GBPJPY_H4               bars   2754 scanned  2753  RSI OK  bull  68 OK  bear 118 OK
+PASS dv_rsi_noclean_GBPJPY_M15              bars  43978 scanned 43977  RSI OK  bull 1290 OK  bear 1545 OK
+PASS dv_rsi_noclean_XAUUSD_H1               bars  11307 scanned 11306  RSI OK  bull 321 OK  bear 397 OK
+PASS dv_rsi_noclean_XAUUSD_H4               bars   3695 scanned  3694  RSI OK  bull  78 OK  bear 161 OK
+PASS dv_rsi_noclean_XAUUSD_M15              bars  42200 scanned 42199  RSI OK  bull 1233 OK  bear 1531 OK
+
+ALL PASS (37 files)

@@ -1,0 +1,3 @@
+dv_default	InpMACD=true,InpHidden=false,InpLeft=5,InpRight=3,InpMaxDist=60,InpClean=true,InpBoth=false,InpHistory=2000
+dv_hidden_both	InpMACD=true,InpHidden=true,InpLeft=5,InpRight=3,InpMaxDist=60,InpClean=true,InpBoth=true,InpHistory=2000
+dv_rsi_noclean	InpMACD=false,InpHidden=false,InpLeft=3,InpRight=2,InpMaxDist=40,InpClean=false,InpBoth=false,InpHistory=3000
